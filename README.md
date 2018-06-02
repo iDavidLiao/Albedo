@@ -47,4 +47,4 @@ Please include your own .pgm files and/or .txt file when running any of the prog
 After running s2 to create the directions.txt file. please delete the last empty line in the .txt file.
 *****
 
-![alt text](https
+![alt text](https://github.com/iDavidLiao/Albedo/blob/master/Screenshots/output.png)
