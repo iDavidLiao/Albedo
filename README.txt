@@ -9,13 +9,6 @@ s3 - This program uses the output from s2 and computes for the surface normal, w
 s4 - This program uses the output from s2 and computes for the surface normals, which is then used to compute for the albedo. The albedo is then translated to pixel value and inputed into the output image.
 
 
-**************************************
-
-When I compiled and tested on multiple Mac OS machines, there were no errors to the best of my knowledge.
-
-**************************************
-
-
 ----------------------
 To compile/clean in Linux:
 ----------
