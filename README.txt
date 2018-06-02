@@ -1,3 +1,5 @@
+## Description
+
 This contains 4 programs, s1, s2, s3, and s4.
 
 s1 - This program converts a grayscale image into a binary image to locate the object in the image, and computes for the object's center coordinates (x,y) and radius.
@@ -10,15 +12,14 @@ s4 - This program uses the output from s2 and computes for the surface normals, 
 
 
 ----------------------
-To compile/clean in Linux:
-----------
+## To compile/clean in Linux:
+---------------------
  
    make all
 
    make clean
 
-To run:
----------
+   To run:
 
 s1 - ./s1 {input original image} {input threshold value} {output parameters file}
 
@@ -45,4 +46,3 @@ Please include your own .pgm files and/or .txt file when running any of the prog
 
 After running s2 to create the directions.txt file. please delete the last empty line in the .txt file.
 *****
------------
