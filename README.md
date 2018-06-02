@@ -25,7 +25,7 @@ s1 - ./s1 {input original image} {input threshold value} {output parameters file
 
 s2 - ./s2 {input parameters} {image 1} {image 2} {image 3} {output directions}
 
-s3 - ./s3 {input directions} {image 1} {image 2} {image 3} {threshold} {output}
+s3 - ./s3 {input directions} {image 1} {image 2} {image 3} {step} {threshold} {output}
 
 s4 - ./s4 {input directions} {image 1} {image 2} {image 3} {step} {threshold} {output}
 
